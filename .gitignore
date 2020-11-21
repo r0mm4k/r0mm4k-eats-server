@@ -71,6 +71,7 @@ web_modules/
 # dotenv environment variables file
 .env
 .env.test
+.env.dev
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
@@ -115,14 +116,5 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-Будет удалено .eslintrc.js
-Будет удалено .idea/
-Будет удалено .prettierrc
-Будет удалено README.md
-Будет удалено nest-cli.json
-Будет удалено package-lock.json
-Будет удалено package.json
-Будет удалено src/
-Будет удалено test/
-Будет удалено tsconfig.build.json
-Будет удалено tsconfig.json
+#IDEI
+.idea
