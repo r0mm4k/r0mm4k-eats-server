@@ -12,7 +12,7 @@ The Backend of r0mm4k Eats
 - password
 - role (client|owner|delivery)
 
-## User Model:
+## User CRUD:
 
 - Create Account
 - Log In
